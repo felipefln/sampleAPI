@@ -1,6 +1,9 @@
-# Sample project API Django REST FRAMEWORK for educational purposes
 
 # Sample project API Django REST FRAMEWORK for educational purposes
+- 
+The idea of ​​this project, it is basic to use the study to practice.
+
+Create a simple API only with the POST method, where a value is entered, and an ideal weight sum is returned based on the entered input.
 
 ## Requirements
 - Python
